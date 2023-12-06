@@ -12,6 +12,12 @@ FQLite is a tool to find and restore deleted records in SQLite databases. It the
   <img width="95%" height="95%" src="fqlite_screenshot.png?raw=true" alt="FQLite Screenshot"/>
 </p>
 
+### Decompile source code build from IDEA Community
+
+* using `module-info.java` build from idea javafx project
+* `javafx` family version 17.0.6
+* `antlr4-runtime` version 4.8 (high version crash i dnot why)
+* Enjoy your custom features
 
 ### Features
 
